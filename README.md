@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=4&height=150&section=header&text=Hello%20👋,%20I'm%20SupaIcy%20&fontSize=40&fontColor=000000" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supaicy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=supaicy)](https://git.io/streak-stats) ->
+
 <!--
 **supaicy/supaicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
