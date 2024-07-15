@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=4&height=150&section=header&text=Hello%20👋,%20I'm%20SupaIcy%20&fontSize=40&fontColor=000000" />
 <!--
 **supaicy/supaicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
